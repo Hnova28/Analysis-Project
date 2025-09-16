@@ -1,4 +1,4 @@
-I’m an **Analyst & Problem Solver** who loves turning raw data into meaningful insights and building solutions that make an impact.  
+I’m an **Problem Solver** who loves turning raw data into meaningful insights and building solutions that make an impact.  
 With a background in **backend development and data analytics**, I specialize in uncovering trends, solving complex problems, and designing tools that help businesses make smarter decisions.  
 
 ---
