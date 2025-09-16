@@ -2,7 +2,9 @@
 
 > Visual analytics dashboard summarizing global social media behavior and trends (2015–2025).
 
-![Dashboard Screenshot](./assets/social_media.png)
+
+<img width="746" height="385" alt="social_media" src="https://github.com/user-attachments/assets/07994e1f-efcf-4f5a-8d77-c51ce62bdc5d" />
+
 
 ---
 
