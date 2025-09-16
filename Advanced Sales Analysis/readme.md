@@ -25,7 +25,8 @@ The goal is to give management a **clear, visual, and data-driven understanding*
 
 ## 📊 Key Performance Indicators (KPIs)
 - Total Sales Quantity  
-- Revenue  
+- Revenue
+- COGS
 - Profit & Profit Margin %  
 - Number of Transactions  
 - Top Products & Top Customers  
