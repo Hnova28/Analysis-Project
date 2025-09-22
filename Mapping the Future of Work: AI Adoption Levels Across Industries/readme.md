@@ -26,8 +26,7 @@ This project explores how **Artificial Intelligence (AI) is impacting the job ma
   - Top 5 jobs by salary  
 ---
 ## 📊 Sample Charts
-**Automation risk means how likely a job or skill can be replaced by machines or AI in the future.**
-**the graph shows medium chance have high rate**
+**The graph shows medium chance have high rate**
 <img width="365" height="257" alt="image" src="https://github.com/user-attachments/assets/3fcaa168-67ea-4672-9148-4f5dd2b876df" />
 
 ---
